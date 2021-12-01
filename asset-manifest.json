@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/goforwardllc/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/goforwardllc/static/js/main.992dd353.chunk.js",
-    "main.js.map": "/goforwardllc/static/js/main.992dd353.chunk.js.map",
-    "runtime-main.js": "/goforwardllc/static/js/runtime-main.9468b9f8.js",
-    "runtime-main.js.map": "/goforwardllc/static/js/runtime-main.9468b9f8.js.map",
-    "static/js/2.784bcb04.chunk.js": "/goforwardllc/static/js/2.784bcb04.chunk.js",
-    "static/js/2.784bcb04.chunk.js.map": "/goforwardllc/static/js/2.784bcb04.chunk.js.map",
-    "static/js/3.588f249e.chunk.js": "/goforwardllc/static/js/3.588f249e.chunk.js",
-    "static/js/3.588f249e.chunk.js.map": "/goforwardllc/static/js/3.588f249e.chunk.js.map",
+    "main.css": "/goforwardllc/static/css/main.a721dd0e.chunk.css",
+    "main.js": "/goforwardllc/static/js/main.b9682b92.chunk.js",
+    "main.js.map": "/goforwardllc/static/js/main.b9682b92.chunk.js.map",
+    "runtime-main.js": "/goforwardllc/static/js/runtime-main.30f9bc50.js",
+    "runtime-main.js.map": "/goforwardllc/static/js/runtime-main.30f9bc50.js.map",
+    "static/css/2.42db565c.chunk.css": "/goforwardllc/static/css/2.42db565c.chunk.css",
+    "static/js/2.48a51163.chunk.js": "/goforwardllc/static/js/2.48a51163.chunk.js",
+    "static/js/2.48a51163.chunk.js.map": "/goforwardllc/static/js/2.48a51163.chunk.js.map",
+    "static/js/3.28351a7a.chunk.js": "/goforwardllc/static/js/3.28351a7a.chunk.js",
+    "static/js/3.28351a7a.chunk.js.map": "/goforwardllc/static/js/3.28351a7a.chunk.js.map",
     "index.html": "/goforwardllc/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/goforwardllc/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.784bcb04.chunk.js.LICENSE.txt": "/goforwardllc/static/js/2.784bcb04.chunk.js.LICENSE.txt",
+    "static/css/2.42db565c.chunk.css.map": "/goforwardllc/static/css/2.42db565c.chunk.css.map",
+    "static/css/main.a721dd0e.chunk.css.map": "/goforwardllc/static/css/main.a721dd0e.chunk.css.map",
+    "static/js/2.48a51163.chunk.js.LICENSE.txt": "/goforwardllc/static/js/2.48a51163.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/goforwardllc/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9468b9f8.js",
-    "static/js/2.784bcb04.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.992dd353.chunk.js"
+    "static/js/runtime-main.30f9bc50.js",
+    "static/css/2.42db565c.chunk.css",
+    "static/js/2.48a51163.chunk.js",
+    "static/css/main.a721dd0e.chunk.css",
+    "static/js/main.b9682b92.chunk.js"
   ]
 }
