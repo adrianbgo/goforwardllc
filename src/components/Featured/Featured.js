@@ -1,6 +1,6 @@
 import React from 'react';
 import './Featured.css';
-import placeholder from './placeholder-4-3.gif';
+import placeholder from '../../images/placeholder-4-3.gif';
 
 const Featured = (props) => {
     return (
